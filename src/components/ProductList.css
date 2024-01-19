@@ -1,0 +1,45 @@
+div {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    text-align: left; /* Align the list items to the right */
+   
+  }
+  
+  li {
+    margin-bottom: 15px; /* Increased margin for more space between items */
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .btn{
+    padding-right: 5px;
+    margin-left: 20px;
+  }
